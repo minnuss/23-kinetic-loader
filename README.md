@@ -1,8 +1,8 @@
 # Kinetic Loader
 
-TITLE - Kinetic Loader
+TITLE - Kinetic Spinner Loader
 
-About - Element is moving infinitely in a loop like a kinetic element
+About - Element is moving infinitely in a loop like a kinetic spinner
 
 TECHNOLOGIES USED:
 
